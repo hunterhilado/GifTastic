@@ -1,0 +1,24 @@
+body {
+    background-image: url("../images/harry\ potter.jpg");
+    background-size: 1950px;
+}
+
+#title {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 30px;
+    
+}
+
+#buttonArea {
+    padding: 20px ;
+    text-align: center;
+}
+
+.column {
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    text-align: center;
+}
